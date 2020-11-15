@@ -89,15 +89,17 @@ hr {
   justify-content: space-around;
   align-items: center;
   line-height: 0.01;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
-.section h4 {
+.count {
+  font-size: 1.1rem;
   color: hsl(229, 23%, 23%);
 }
 
 .section-2 h6 {
+  margin-top: 2px;
   color: hsl(0, 0%, 59%);
 }
 
