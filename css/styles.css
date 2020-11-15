@@ -79,7 +79,7 @@ body {
 
 /* hr */
 hr {
-  color: hsl(0, 0%, 59%);
+  border-top: 2px hsl(0, 0%, 59%);
 }
 
 /* Section-2 */
